@@ -1,5 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
+![Hi (3)](https://github.com/mozahid679/mozahid679/assets/55123088/ee9d49ba-6fb1-4f5e-9749-7474112099be)
 
 **mozahid679/mozahid679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
